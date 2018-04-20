@@ -15,7 +15,14 @@ main{
 	background: #313131;
 	color: #FFFFFF;
 	}
-	
+
+.banner{
+	padding-left:25px;
+	padding-top:10px;
+	padding-bottom:10px; 
+}
+
+
 .banner a
 {color: #FFFFFF;
 }
